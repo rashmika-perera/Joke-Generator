@@ -108,7 +108,7 @@ function App() {
                   animate={{ rotate: 360 }}
                   transition={{ duration: 1, repeat: Infinity, ease: [0, 0, 1, 1] }}
                 >
-                  🎪
+                  <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading" className="w-16 h-16" />
                 </motion.div>
                 <p className="text-white text-2xl font-semibold">Brewing up a good one...</p>
               </motion.div>
